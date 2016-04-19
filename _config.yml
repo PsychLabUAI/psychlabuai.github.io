@@ -7,7 +7,7 @@ compass:
   # an avatar or logo (optional)
   logo: "/images/psychlab.png"
   # author will appear under the avatar (optional)
-  author: "Psychlab"
+  author: ""
   # tagline will appear under the title (optional)
   tagline: "Una página de <a href='http://psychlab.cl/'>PsychLab</a>, Laboratorio de Investigacion en Psicologia, Universidad Adolfo Ibáñez"
   # if include_content is true, the contents of the content.html include will be
